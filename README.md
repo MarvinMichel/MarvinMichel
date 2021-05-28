@@ -1,5 +1,7 @@
 ## Hi there 👋
-My name is Marvin Sernee and I'm a Creative Front-End Developer.<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=MarvinMichel" align="right" width=40% /></a>
+My name is Marvin Sernee and I'm a Creative Front-End Developer.
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=MarvinMichel" align="right" width=45% /></a>
 
 #### Some facts about me:
 <ul>
