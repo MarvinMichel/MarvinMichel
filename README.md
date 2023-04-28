@@ -1,10 +1,12 @@
-## Hi there 👋
-My name is Marvin Sernee and I'm a Creative Front-End Developer.
+<h1 style="color:#dd6387">Hi there 👋</h1>
+
+My name is Marvin Sernee and I'm a Software Engineer at [Q42](https://www.q42.eu). I'm passionate about the design and accessibility while trying to create immersive experiences on the web.
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=MarvinMichel" align="right" width=45% /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinMichel&theme=dracula&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/?username=MarvinMichel&theme=dracula&layout=compact&hide=contribs,issues&count_private=true&show_icons=true&line_height=30)
 
 #### Some facts about me:
 🦸‍ I'm a huge fan of Marvel<br/>
