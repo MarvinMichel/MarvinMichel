@@ -9,7 +9,7 @@ My name is Marvin Sernee and I'm a Software Engineer at [Q42](https://www.q42.eu
 ![Top Langs](https://github-readme-stats.vercel.app/api/?username=MarvinMichel&theme=dracula&layout=compact&hide=contribs,issues&count_private=true&show_icons=true&line_height=30)
 
 #### Some facts about me:
-🦸‍ I'm a huge fan of Marvel<br/>
-🖌 I'm passionate about UI/UX Design<br/>
-🇳🇱 I'm from the Netherlands<br/>
-🤓 I'm always looking for new things to learn<br/>
+I am...
+- ...a huge fan of Marvel, Disney and Pokémon
+- ...passionate about UI/UX Design
+- ...always looking for new things to learn
